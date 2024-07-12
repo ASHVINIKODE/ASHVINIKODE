@@ -1,4 +1,5 @@
-## Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="hand wave" width="50"/> I'm Ashvini
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="hand wave" width="50"/>  I'm Ashvini</h1>  
+
 - 🔭 I’m currently working on ¯\\\_(ツ)\_/¯
 
 - 🌱 On a continuous learning journey.
