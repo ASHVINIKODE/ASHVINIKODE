@@ -1,8 +1,6 @@
 <h1 align="center">Heyy, I'm Ashvinii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <p align="center">⌨️ Developer | Dreamer • • </p>
-<p align="center">🔍 Currently exploring... everything and nothing 😅</p>
-<p align="center">🌱 Forever learning, one bug at a time</p>
 <p align="center">💻 Code, Chai, and Curiosity – my daily trio</p>
 <p align="center">💬 Ask me anything – I might just know the answer (or Google it fast 😉)</p>
 <p align="center">⚡ Fun fact: Still a student, but already breaking (and fixing) code like a pro</p>
