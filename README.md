@@ -1,11 +1,14 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="hand wave" width="50"/>  I'm Ashvini</h1>  
-- ⌨️ developer | dreamer  
+⌨️ developer | dreamer 
+
 - 🔍 Currently exploring... everything and nothing 😅
+- ⌨️ developer | dreamer
 - 🌱 Forever learning, one bug at a time
 - 💻 Code, coffee, and curiosity – my daily trio
 - 💬 Ask me anything – I might just know the answer (or Google it fast 😉)
 - 📬 Let's connect-> bhagatashvini71@gmail.com
--⚡ Fun fact: Still a student, but already breaking (and fixing) code like a pro
+- ⚡ Fun fact: Still a student, but already breaking (and fixing) code like a pro
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ashvini-bhagat-b69396284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashvini-bhagat-b69396284/" height="30" width="40" /></a>
