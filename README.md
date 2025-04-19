@@ -3,7 +3,7 @@
 -  ⌨️ developer | dreamer
 - 🔍 Currently exploring... everything and nothing 😅
 - 🌱 Forever learning, one bug at a time
-- 💻 Code, coffee, and curiosity – my daily trio
+- 💻 Code, Chai, and Curiosity – my daily trio
 - 💬 Ask me anything – I might just know the answer (or Google it fast 😉)
 - 📬 Let's connect-> bhagatashvini71@gmail.com
 - ⚡ Fun fact: Still a student, but already breaking (and fixing) code like a pro
