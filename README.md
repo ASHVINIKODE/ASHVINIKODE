@@ -1,8 +1,7 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="hand wave" width="50"/>  I'm Ashvini</h1>  
-⌨️ developer | dreamer 
 
+-  ⌨️ developer | dreamer
 - 🔍 Currently exploring... everything and nothing 😅
-- ⌨️ developer | dreamer
 - 🌱 Forever learning, one bug at a time
 - 💻 Code, coffee, and curiosity – my daily trio
 - 💬 Ask me anything – I might just know the answer (or Google it fast 😉)
