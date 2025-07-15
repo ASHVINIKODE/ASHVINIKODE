@@ -4,28 +4,28 @@
 <p align="center">
   🌸 Developer | ☁️ Dreamer | 🔭 Explorer <br>
   <i>💻 Code, ☕ Chai, and 🚀 Curiosity – my daily trio</i><br>
-  💬 Ask me anything — I’ll answer fast (or Google faster 😉)<br>
+  💬 Ask me anything – I might just know the answer (or Google it fast 😉)<br>
   ⚡ Still a student, but already breaking (and fixing) code like a pro<br>
   📬 <b>Let's chat:</b> <a href="mailto:bhagatashvini71@gmail.com">bhagatashvini71@gmail.com</a>
 </p>
 
----
+
 
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ashvini-bhagat-b69396284/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/heyy.ashvii/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="30" height="30" />
+  </a>&nbsp;&nbsp;
   <a href="https://x.com/Ashvini201205" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" alt="Twitter / X" width="30" height="30" />
   </a>
 </p>
 
----
+
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
@@ -34,7 +34,7 @@
   <i>...and growing every day 🌱</i>
 </p>
 
----
+
 
 <h2 align="center">📊 My GitHub Stats</h2>
 
@@ -43,21 +43,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHVINIKODE&layout=compact&theme=radical&hide_border=true" width="45%" />
 </p>
 
----
+
 
 <h2 align="center">🎯 Currently Working On</h2>
-
 <p align="center">
   🚧 Building fun Android apps <br>
-  📚 Learning backend & databases <br>
-  💡 Exploring open-source projects <br>
+  📚 <b>Learning DSA (Data Structures & Algorithms)</b> <br>
+  🌐 Practicing Web Development <br>
+  💾 Exploring backend & databases <br>
+  💡 Getting into open-source contributions <br>
 </p>
 
----
 
-<h2 align="center">✨ Fun Quote</h2>
 
-<p align="center">
-  <i>"First, solve the problem. Then, write the code." – John Johnson</i><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Keep+learning.;Keep+building.;Keep+growing+🌱" alt="Typing SVG" />
-</p>
+
+
