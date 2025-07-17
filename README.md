@@ -47,11 +47,11 @@
 
 <h2 align="center">🎯 Currently Working On</h2>
 <p align="center">
-  🚧 Building fun Android apps <br>
-  📚 <b>Learning DSA (Data Structures & Algorithms)</b> <br>
-  🌐 Practicing Web Development <br>
-  💾 Exploring backend & databases <br>
-  💡 Getting into open-source contributions <br>
+   Building fun Android apps <br>
+   <b>Learning DSA (Data Structures & Algorithms)</b> <br>
+   Practicing Web Development <br>
+   Exploring backend & databases <br>
+   Getting into open-source contributions <br>
 </p>
 
 
