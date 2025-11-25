@@ -42,7 +42,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHVINIKODE&layout=compact&theme=radical&hide_border=true" width="45%" />
 </p>
 
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ASHVINIKODE&show_icons=true&theme=tokyonight&cache_seconds=7200" height="170" />
 
 <h2 align="center">🎯 Currently Working On</h2>
 <p align="center">
