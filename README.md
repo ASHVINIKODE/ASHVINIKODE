@@ -43,6 +43,8 @@
 </p>
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ASHVINIKODE&show_icons=true&theme=tokyonight&cache_seconds=7200" height="170" />
+<img src="https://streak-stats.demolab.com?user=ASHVINIKODE&theme=tokyonight&date_format=j%20M%5B%20Y%5D" height="170" />
+
 
 <h2 align="center">🎯 Currently Working On</h2>
 <p align="center">
