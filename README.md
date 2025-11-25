@@ -28,7 +28,7 @@
 
 
 <h2 align="center">🛠️ Tech Stack</h2>
-
+<div>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,python,androidstudio,mysql,mongodb" /><br>
   <i>...and growing every day 🌱</i>
@@ -42,16 +42,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHVINIKODE&layout=compact&theme=radical&hide_border=true" width="45%" />
 </p>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ASHVINIKODE&show_icons=true&theme=tokyonight&cache_seconds=7200" height="170" />
-<img src="https://streak-stats.demolab.com?user=ASHVINIKODE&theme=tokyonight&date_format=j%20M%5B%20Y%5D" height="170" />
+
 
 
 <h2 align="center">🎯 Currently Working On</h2>
 <p align="center">
    Building fun Android apps <br>
    <b>Learning DSA (Data Structures & Algorithms)</b> <br>
-   Practicing Web Development <br>
-   Exploring backend & databases <br>
+   Practicing Data Analysis <br>
+   Exploring ML & Data Science <br>
 </p>
 
 
