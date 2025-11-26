@@ -2,11 +2,11 @@
 <h1 align="center">Heyy, I'm Ashvinii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <p align="center">
-  🌸 Developer | ☁️ Dreamer | 🔭 Explorer <br>
-  <i>💻 Code, ☕ Chai, and 🚀 Curiosity – my daily trio</i><br>
-  💬 Ask me anything – I might just know the answer (or Google it fast 😉)<br>
-  ⚡ Still a student, but already breaking (and fixing) code like a pro<br>
-  📬 <b>Let's chat:</b> <a href="mailto:bhagatashvini71@gmail.com">bhagatashvini71@gmail.com</a>
+  Developer |  Dreamer |  Explorer <br>
+  <i> Code,  Chai, and  Curiosity – my daily trio</i><br>
+   Ask me anything – I might just know the answer (or Google it fast 😉)<br>
+   Still a student, but already breaking (and fixing) code like a pro<br>
+   <b>Let's chat:</b> <a href="mailto:bhagatashvini71@gmail.com">bhagatashvini71@gmail.com</a>
 </p>
 
 
